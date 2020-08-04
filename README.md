@@ -73,6 +73,7 @@ You're welcome to make use of this guide and to refer to it, but please do not c
 * [Gareth Bradley's 6 node Raspberry Pi Kubernetes Cluster](https://garfbradaz.github.io/blog/2019/02/12/RaspberryPi-Cluster-Kubernetes.html)
 * [Andreas Muttscheller's Raspberry Pi OpenFaaS k3s cluster provisioned with Ansible](https://blog.codecentric.de/en/2019/08/serverless-functions-k3s-openfaas-raspberry-pi/)
 * [Ruan Bekker's K3s Setup with Golang and Traefik on a Raspberry Pi 4](https://sysadmins.co.za/running-k3s-on-the-raspberrypi-4/?pk_campaign=github-teamserverless)
+* [Robert Sirchia's MicroK8s with 64-bit OS on Raspberry Pi 4](https://sirchia.cloud/posts/microk8s-on-64-bit-os-raspberry-pi/)
 
 Submit your cluster and description by creating a GitHub issue.
 
